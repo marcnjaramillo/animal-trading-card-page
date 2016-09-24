@@ -6,6 +6,7 @@ h3 {
 body {
   width: 300px;
   padding: 10px;
+  margin: auto;
   font-family: helvetica, arial, sans-serif;
   font-weight: bold;
   font-size: 24px;
